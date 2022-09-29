@@ -1,5 +1,7 @@
 # Milestone-8: E-commerce
 
+Deployed here: https://ms-e-commerce.herokuapp.com/
+
 ## Learning Competencies
 
 At the end of this milestone you will learn
